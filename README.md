@@ -1,5 +1,4 @@
 # Getting Started with Create React App
-#Deploy link (https://quiet-dasik-24b4a4.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
