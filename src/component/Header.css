@@ -1,0 +1,93 @@
+
+.header{
+    top: -1115px;
+    left: 72px;
+    width: 465px;
+    height: 109px;
+    box-shadow: 0px 1px 6px #00000029;
+    opacity: 1;
+    position: relative;
+}
+
+#heading{
+    top: 16px;
+    left: 80px;
+    width: 107px;
+    height: 44px;
+    opacity: 1;
+    font-family: Louis George Café, Regular;
+    font-size: 36px;
+    margin-left: 5px;
+}
+#header_img{
+    top: -1115px;
+    left: 76px;
+    width: 463px;
+    height: 31px;
+    /* UI Properties */
+    background: transparent url('./Screenshotezworks.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: relative;
+
+}
+
+#input{
+    top: 68px;
+    left: 80px;
+    width: 449px;
+    height: 20px;
+    /* UI Properties */
+    /* background: transparent url('img/Group 470.png') 0% 0% no-repeat padding-box; */
+    opacity: 1;
+    border-radius: 30px;
+    margin-left: 5px;
+}
+.detail_box{
+    position: relative;
+    display: grid;
+    grid-template-columns: auto auto;
+    top: -1110px;
+    left: 80px;
+    width: 455px;
+    height: 62px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 2px 2px 3px #00000029;
+    border-radius: 8px;
+    opacity: 1;
+    font: normal normal normal 16px/19px Louis George Café;
+    margin: 5px;
+    cursor: pointer;
+}
+.company_name{
+    font: normal normal normal 16px/19px Louis George Café;
+    letter-spacing: 0px;
+    color: #9CBDEB;
+    opacity: 1;
+    margin: 0px;
+}
+.entities{
+    margin-top: 0;
+    /* UI Properties */
+    font: normal normal normal 16px/19px Louis George Café;
+    letter-spacing: 0px;
+    color: #00000029;
+    opacity: 1;
+}
+.code{
+    margin-left: 260px;
+    font: normal normal normal 16px/19px Louis George Café;
+    letter-spacing: 0px;
+    color: #00000029;
+    opacity: 1;
+    margin-top: 0px;
+}
+.user{
+    margin-left: 260px;
+    margin-top: 0px;
+    font: normal normal normal 16px/19px Louis George Café;
+    letter-spacing: 0px;
+    color: #00000029;
+    opacity: 1; 
+}
+

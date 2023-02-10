@@ -1,0 +1,54 @@
+.mainheader_box{
+    top: -2210px;
+    left: 538px;
+    width: 760px;
+    height: 72px;
+    background: transparent 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 6px #00000029;
+    opacity: 1;
+    position: relative;
+}
+
+#mainheader_para{
+    position: relative;
+    top: 8px;
+    left: 680px;
+    width: 171px;
+    height: 56px;
+    /* UI Properties */
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.detailed_box{
+    top: 72px;
+    left: 537px;
+    width: 1383px;
+    height: 204px;
+    /* UI Properties */
+    /* background: transparent url('img/Rectangle 19.png') 0% 0% no-repeat padding-box; */
+    box-shadow: 0px 1px 6px #00000029;
+    opacity: 1;
+}
+
+#para{
+    top: 100px;
+    left: 606px;
+    width: 237px;
+    height: 24px;
+    /* UI Properties */
+    /* background: transparent url('img/Lucas Films Private Limited.png') 0% 0% no-repeat padding-box; */
+    opacity: 1;
+    font-family: Louis George Café, Regular;
+    font-size: 20px;
+}
+
+#detailed{
+    top: 152px;
+    left: 1027px;
+    width: 148px;
+    height: 99px;
+    /* UI Properties */
+    /* background: transparent url('img/Group 119.png') 0% 0% no-repeat padding-box; */
+    opacity: 1;
+}
